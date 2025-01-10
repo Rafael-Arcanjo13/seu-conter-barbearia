@@ -6,3 +6,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    width: 100vh;
+    height: 100vh;
+    background-image: url("/src/imagens/background_barbearia.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
